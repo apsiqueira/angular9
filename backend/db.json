@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caneta faber castel",
+      "price": 6.89
+    },
+    {
+      "name": "geladeira",
+      "id": 3
+    },
+    {
+      "name": "notebook dell",
+      "price": "100.00",
+      "id": 4
+    }
+  ]
+}
