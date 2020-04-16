@@ -13,4 +13,14 @@ align-items: center;
 .logo{
 max-height: 30px;
 
+
+}
+.titulo{
+
+    font-size: medium;
+}
+
+.header-group{
+padding-left: 15px;
+
 }
